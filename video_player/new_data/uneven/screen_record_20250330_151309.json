@@ -1,0 +1,1442 @@
+[
+    {
+        "timestamp": 1743342560.8184137,
+        "gsr": 34524.0,
+        "ppg": 2946.0,
+        "face_temperature_forehead": 29.973981857299805,
+        "face_temperature_left_cheek": 33.035606384277344,
+        "face_temperature_right_cheek": 31.365217208862305,
+        "face_temperature_left_nose": 34.35101318359375,
+        "eye_blink_rate": 2.0492398738861084
+    },
+    {
+        "timestamp": 1743342560.9011655,
+        "gsr": 34524.0,
+        "ppg": 2946.0,
+        "face_temperature_forehead": 29.8887882232666,
+        "face_temperature_left_cheek": 33.07126235961914,
+        "face_temperature_right_cheek": 31.397628784179688,
+        "face_temperature_left_nose": 34.338462829589844,
+        "eye_blink_rate": 2.0487759113311768
+    },
+    {
+        "timestamp": 1743342560.9998713,
+        "gsr": 34521.0,
+        "ppg": 1596.0,
+        "face_temperature_forehead": 29.893030166625977,
+        "face_temperature_left_cheek": 33.007877349853516,
+        "face_temperature_right_cheek": 31.3837947845459,
+        "face_temperature_left_nose": 34.23927307128906,
+        "eye_blink_rate": 2.048537254333496
+    },
+    {
+        "timestamp": 1743342561.0986328,
+        "gsr": 34521.0,
+        "ppg": 1596.0,
+        "face_temperature_forehead": 29.9122257232666,
+        "face_temperature_left_cheek": 33.07045364379883,
+        "face_temperature_right_cheek": 31.360078811645508,
+        "face_temperature_left_nose": 34.29212951660156,
+        "eye_blink_rate": 2.0480706691741943
+    },
+    {
+        "timestamp": 1743342561.1994908,
+        "gsr": 34521.0,
+        "ppg": 1596.0,
+        "face_temperature_forehead": 29.93833351135254,
+        "face_temperature_left_cheek": 33.02878952026367,
+        "face_temperature_right_cheek": 31.363439559936523,
+        "face_temperature_left_nose": 34.26113510131836,
+        "eye_blink_rate": 2.0478403568267822
+    },
+    {
+        "timestamp": 1743342561.2997317,
+        "gsr": 34521.0,
+        "ppg": 1596.0,
+        "face_temperature_forehead": 29.899372100830078,
+        "face_temperature_left_cheek": 33.09000015258789,
+        "face_temperature_right_cheek": 31.41550064086914,
+        "face_temperature_left_nose": 34.257083892822266,
+        "eye_blink_rate": 2.047372579574585
+    },
+    {
+        "timestamp": 1743342561.4035735,
+        "gsr": 34517.0,
+        "ppg": 1372.0,
+        "face_temperature_forehead": 29.95199966430664,
+        "face_temperature_left_cheek": 32.95742416381836,
+        "face_temperature_right_cheek": 31.336759567260742,
+        "face_temperature_left_nose": 34.28596496582031,
+        "eye_blink_rate": 2.047142744064331
+    },
+    {
+        "timestamp": 1743342561.5099683,
+        "gsr": 34517.0,
+        "ppg": 1372.0,
+        "face_temperature_forehead": 29.90470314025879,
+        "face_temperature_left_cheek": 32.94794845581055,
+        "face_temperature_right_cheek": 31.418750762939453,
+        "face_temperature_left_nose": 34.33036422729492,
+        "eye_blink_rate": 2.0466787815093994
+    },
+    {
+        "timestamp": 1743342561.616807,
+        "gsr": 34516.0,
+        "ppg": 1459.0,
+        "face_temperature_forehead": 29.94586181640625,
+        "face_temperature_left_cheek": 33.04621124267578,
+        "face_temperature_right_cheek": 31.333003997802734,
+        "face_temperature_left_nose": 34.17905807495117,
+        "eye_blink_rate": 2.0463860034942627
+    },
+    {
+        "timestamp": 1743342561.6986268,
+        "gsr": 34517.0,
+        "ppg": 1920.0,
+        "face_temperature_forehead": 29.907209396362305,
+        "face_temperature_left_cheek": 33.09363555908203,
+        "face_temperature_right_cheek": 31.335416793823242,
+        "face_temperature_left_nose": 34.173683166503906,
+        "eye_blink_rate": 2.045985698699951
+    },
+    {
+        "timestamp": 1743342561.8014085,
+        "gsr": 34517.0,
+        "ppg": 1920.0,
+        "face_temperature_forehead": 29.901948928833008,
+        "face_temperature_left_cheek": 33.01260757446289,
+        "face_temperature_right_cheek": 31.38260841369629,
+        "face_temperature_left_nose": 34.24898910522461,
+        "eye_blink_rate": 2.045729160308838
+    },
+    {
+        "timestamp": 1743342561.9011958,
+        "gsr": 34517.0,
+        "ppg": 1920.0,
+        "face_temperature_forehead": 29.95830726623535,
+        "face_temperature_left_cheek": 32.93695068359375,
+        "face_temperature_right_cheek": 31.343082427978516,
+        "face_temperature_left_nose": 34.23036575317383,
+        "eye_blink_rate": 11.143416404724121
+    },
+    {
+        "timestamp": 1743342561.9999487,
+        "gsr": 34514.0,
+        "ppg": 1651.0,
+        "face_temperature_forehead": 29.933635711669922,
+        "face_temperature_left_cheek": 32.96590805053711,
+        "face_temperature_right_cheek": 31.363834381103516,
+        "face_temperature_left_nose": 34.18461608886719,
+        "eye_blink_rate": 11.143184661865234
+    },
+    {
+        "timestamp": 1743342562.100204,
+        "gsr": 34514.0,
+        "ppg": 1765.0,
+        "face_temperature_forehead": 29.953636169433594,
+        "face_temperature_left_cheek": 33.05192184448242,
+        "face_temperature_right_cheek": 31.348051071166992,
+        "face_temperature_left_nose": 34.24786376953125,
+        "eye_blink_rate": 11.142706871032715
+    },
+    {
+        "timestamp": 1743342562.2042453,
+        "gsr": 34515.0,
+        "ppg": 1734.0,
+        "face_temperature_forehead": 30.003665924072266,
+        "face_temperature_left_cheek": 33.01030349731445,
+        "face_temperature_right_cheek": 31.38030242919922,
+        "face_temperature_left_nose": 34.11012268066406,
+        "eye_blink_rate": 11.142461776733398
+    },
+    {
+        "timestamp": 1743342562.3105805,
+        "gsr": 34513.0,
+        "ppg": 1494.0,
+        "face_temperature_forehead": 29.872121810913086,
+        "face_temperature_left_cheek": 32.909385681152344,
+        "face_temperature_right_cheek": 31.405929565429688,
+        "face_temperature_left_nose": 34.27593994140625,
+        "eye_blink_rate": 11.142011642456055
+    },
+    {
+        "timestamp": 1743342562.417704,
+        "gsr": 34513.0,
+        "ppg": 1494.0,
+        "face_temperature_forehead": 30.02873992919922,
+        "face_temperature_left_cheek": 32.94424057006836,
+        "face_temperature_right_cheek": 31.374900817871094,
+        "face_temperature_left_nose": 34.0470085144043,
+        "eye_blink_rate": 11.141769409179688
+    },
+    {
+        "timestamp": 1743342562.4995575,
+        "gsr": 34513.0,
+        "ppg": 1494.0,
+        "face_temperature_forehead": 30.037878036499023,
+        "face_temperature_left_cheek": 32.96788024902344,
+        "face_temperature_right_cheek": 31.380830764770508,
+        "face_temperature_left_nose": 34.11324691772461,
+        "eye_blink_rate": 11.141291618347168
+    },
+    {
+        "timestamp": 1743342562.6016433,
+        "gsr": 34513.0,
+        "ppg": 1494.0,
+        "face_temperature_forehead": 29.939697265625,
+        "face_temperature_left_cheek": 32.84075927734375,
+        "face_temperature_right_cheek": 31.388734817504883,
+        "face_temperature_left_nose": 34.16032409667969,
+        "eye_blink_rate": 11.141020774841309
+    },
+    {
+        "timestamp": 1743342562.7032175,
+        "gsr": 34511.0,
+        "ppg": 2124.0,
+        "face_temperature_forehead": 29.963666915893555,
+        "face_temperature_left_cheek": 32.90272903442383,
+        "face_temperature_right_cheek": 31.422727584838867,
+        "face_temperature_left_nose": 34.135963439941406,
+        "eye_blink_rate": 11.14059829711914
+    },
+    {
+        "timestamp": 1743342562.7985451,
+        "gsr": 34511.0,
+        "ppg": 2124.0,
+        "face_temperature_forehead": 29.945140838623047,
+        "face_temperature_left_cheek": 32.80615997314453,
+        "face_temperature_right_cheek": 31.436363220214844,
+        "face_temperature_left_nose": 34.281375885009766,
+        "eye_blink_rate": 11.140336036682129
+    },
+    {
+        "timestamp": 1743342562.9022064,
+        "gsr": 34509.0,
+        "ppg": 1388.0,
+        "face_temperature_forehead": 29.906322479248047,
+        "face_temperature_left_cheek": 32.91166687011719,
+        "face_temperature_right_cheek": 31.397825241088867,
+        "face_temperature_left_nose": 34.30405044555664,
+        "eye_blink_rate": 11.139869689941406
+    },
+    {
+        "timestamp": 1743342563.0037487,
+        "gsr": 34509.0,
+        "ppg": 1388.0,
+        "face_temperature_forehead": 29.85437774658203,
+        "face_temperature_left_cheek": 32.84193420410156,
+        "face_temperature_right_cheek": 31.453161239624023,
+        "face_temperature_left_nose": 34.29576873779297,
+        "eye_blink_rate": 11.139646530151367
+    },
+    {
+        "timestamp": 1743342563.1100495,
+        "gsr": 34509.0,
+        "ppg": 1388.0,
+        "face_temperature_forehead": 29.809284210205078,
+        "face_temperature_left_cheek": 32.92463302612305,
+        "face_temperature_right_cheek": 31.438142776489258,
+        "face_temperature_left_nose": 34.380001068115234,
+        "eye_blink_rate": 11.139188766479492
+    },
+    {
+        "timestamp": 1743342563.2188876,
+        "gsr": 34509.0,
+        "ppg": 1388.0,
+        "face_temperature_forehead": 29.89358901977539,
+        "face_temperature_left_cheek": 32.87594223022461,
+        "face_temperature_right_cheek": 31.43799591064453,
+        "face_temperature_left_nose": 34.32538604736328,
+        "eye_blink_rate": 11.138944625854492
+    },
+    {
+        "timestamp": 1743342563.3534787,
+        "gsr": 34508.0,
+        "ppg": 2532.0,
+        "face_temperature_forehead": 30.167156219482422,
+        "face_temperature_left_cheek": 32.88786315917969,
+        "face_temperature_right_cheek": 31.306926727294922,
+        "face_temperature_left_nose": 34.20855712890625,
+        "eye_blink_rate": 11.1384916305542
+    },
+    {
+        "timestamp": 1743342563.3985167,
+        "gsr": 34508.0,
+        "ppg": 2532.0,
+        "face_temperature_forehead": 29.866666793823242,
+        "face_temperature_left_cheek": 33.02848434448242,
+        "face_temperature_right_cheek": 31.351184844970703,
+        "face_temperature_left_nose": 34.335628509521484,
+        "eye_blink_rate": 11.138242721557617
+    },
+    {
+        "timestamp": 1743342563.49921,
+        "gsr": 34510.0,
+        "ppg": 3662.0,
+        "face_temperature_forehead": 29.827587127685547,
+        "face_temperature_left_cheek": 32.97666549682617,
+        "face_temperature_right_cheek": 31.393115997314453,
+        "face_temperature_left_nose": 34.32692337036133,
+        "eye_blink_rate": 11.137760162353516
+    },
+    {
+        "timestamp": 1743342563.5995054,
+        "gsr": 34506.0,
+        "ppg": 1753.0,
+        "face_temperature_forehead": 29.900314331054688,
+        "face_temperature_left_cheek": 32.979618072509766,
+        "face_temperature_right_cheek": 31.357707977294922,
+        "face_temperature_left_nose": 34.3044548034668,
+        "eye_blink_rate": 11.137535095214844
+    },
+    {
+        "timestamp": 1743342563.7018478,
+        "gsr": 34506.0,
+        "ppg": 1753.0,
+        "face_temperature_forehead": 29.847414016723633,
+        "face_temperature_left_cheek": 32.96257400512695,
+        "face_temperature_right_cheek": 31.397430419921875,
+        "face_temperature_left_nose": 34.310001373291016,
+        "eye_blink_rate": 11.137323379516602
+    },
+    {
+        "timestamp": 1743342563.8068688,
+        "gsr": 34506.0,
+        "ppg": 1753.0,
+        "face_temperature_forehead": 29.932222366333008,
+        "face_temperature_left_cheek": 33.00348663330078,
+        "face_temperature_right_cheek": 31.407312393188477,
+        "face_temperature_left_nose": 34.28461456298828,
+        "eye_blink_rate": 11.136811256408691
+    },
+    {
+        "timestamp": 1743342563.9143295,
+        "gsr": 34505.0,
+        "ppg": 1472.0,
+        "face_temperature_forehead": 29.93393898010254,
+        "face_temperature_left_cheek": 32.9862174987793,
+        "face_temperature_right_cheek": 31.438932418823242,
+        "face_temperature_left_nose": 34.21498107910156,
+        "eye_blink_rate": 11.136360168457031
+    },
+    {
+        "timestamp": 1743342564.0208986,
+        "gsr": 34506.0,
+        "ppg": 1456.0,
+        "face_temperature_forehead": 29.96500015258789,
+        "face_temperature_left_cheek": 32.98227310180664,
+        "face_temperature_right_cheek": 31.40098762512207,
+        "face_temperature_left_nose": 34.18663787841797,
+        "eye_blink_rate": 11.136159896850586
+    },
+    {
+        "timestamp": 1743342564.0988846,
+        "gsr": 34506.0,
+        "ppg": 1456.0,
+        "face_temperature_forehead": 29.91786766052246,
+        "face_temperature_left_cheek": 33.01565170288086,
+        "face_temperature_right_cheek": 31.464271545410156,
+        "face_temperature_left_nose": 34.209999084472656,
+        "eye_blink_rate": 11.135690689086914
+    },
+    {
+        "timestamp": 1743342564.1988144,
+        "gsr": 34501.0,
+        "ppg": 1594.0,
+        "face_temperature_forehead": 29.808181762695312,
+        "face_temperature_left_cheek": 32.9189338684082,
+        "face_temperature_right_cheek": 31.462608337402344,
+        "face_temperature_left_nose": 34.1523323059082,
+        "eye_blink_rate": 11.135459899902344
+    },
+    {
+        "timestamp": 1743342564.2987192,
+        "gsr": 34501.0,
+        "ppg": 1594.0,
+        "face_temperature_forehead": 29.502151489257812,
+        "face_temperature_left_cheek": 33.12007522583008,
+        "face_temperature_right_cheek": 31.561111450195312,
+        "face_temperature_left_nose": 34.03126907348633,
+        "eye_blink_rate": 11.134978294372559
+    },
+    {
+        "timestamp": 1743342564.3991868,
+        "gsr": 34501.0,
+        "ppg": 1594.0,
+        "face_temperature_forehead": 29.68666648864746,
+        "face_temperature_left_cheek": 33.083984375,
+        "face_temperature_right_cheek": 31.508499145507812,
+        "face_temperature_left_nose": 34.005592346191406,
+        "eye_blink_rate": 11.13475227355957
+    },
+    {
+        "timestamp": 1743342564.5029266,
+        "gsr": 34501.0,
+        "ppg": 1594.0,
+        "face_temperature_forehead": 29.712499618530273,
+        "face_temperature_left_cheek": 32.97447967529297,
+        "face_temperature_right_cheek": 31.490625381469727,
+        "face_temperature_left_nose": 34.092498779296875,
+        "eye_blink_rate": 11.134278297424316
+    },
+    {
+        "timestamp": 1743342564.609877,
+        "gsr": 34501.0,
+        "ppg": 1430.0,
+        "face_temperature_forehead": 29.511289596557617,
+        "face_temperature_left_cheek": 33.11478805541992,
+        "face_temperature_right_cheek": 31.623680114746094,
+        "face_temperature_left_nose": 34.021175384521484,
+        "eye_blink_rate": 11.134056091308594
+    },
+    {
+        "timestamp": 1743342564.716788,
+        "gsr": 34501.0,
+        "ppg": 1430.0,
+        "face_temperature_forehead": 29.823076248168945,
+        "face_temperature_left_cheek": 32.89116287231445,
+        "face_temperature_right_cheek": 31.44565200805664,
+        "face_temperature_left_nose": 34.04070281982422,
+        "eye_blink_rate": 11.133589744567871
+    },
+    {
+        "timestamp": 1743342564.7988026,
+        "gsr": 34500.0,
+        "ppg": 2642.0,
+        "face_temperature_forehead": 29.911333084106445,
+        "face_temperature_left_cheek": 32.8994140625,
+        "face_temperature_right_cheek": 31.36458396911621,
+        "face_temperature_left_nose": 34.1829948425293,
+        "eye_blink_rate": 11.133347511291504
+    },
+    {
+        "timestamp": 1743342564.9004467,
+        "gsr": 34500.0,
+        "ppg": 2642.0,
+        "face_temperature_forehead": 30.018333435058594,
+        "face_temperature_left_cheek": 32.90727233886719,
+        "face_temperature_right_cheek": 31.422332763671875,
+        "face_temperature_left_nose": 34.1131591796875,
+        "eye_blink_rate": 11.13288402557373
+    },
+    {
+        "timestamp": 1743342564.9997509,
+        "gsr": 34500.0,
+        "ppg": 2642.0,
+        "face_temperature_forehead": 29.926362991333008,
+        "face_temperature_left_cheek": 32.92258071899414,
+        "face_temperature_right_cheek": 31.401382446289062,
+        "face_temperature_left_nose": 34.12030029296875,
+        "eye_blink_rate": 11.132664680480957
+    },
+    {
+        "timestamp": 1743342565.0985777,
+        "gsr": 34500.0,
+        "ppg": 2642.0,
+        "face_temperature_forehead": 29.995332717895508,
+        "face_temperature_left_cheek": 32.86484909057617,
+        "face_temperature_right_cheek": 31.36284637451172,
+        "face_temperature_left_nose": 34.17017364501953,
+        "eye_blink_rate": 11.132200241088867
+    },
+    {
+        "timestamp": 1743342565.1985977,
+        "gsr": 34496.0,
+        "ppg": 1791.0,
+        "face_temperature_forehead": 29.994443893432617,
+        "face_temperature_left_cheek": 32.90449142456055,
+        "face_temperature_right_cheek": 31.41285514831543,
+        "face_temperature_left_nose": 34.02067565917969,
+        "eye_blink_rate": 11.131976127624512
+    },
+    {
+        "timestamp": 1743342565.30605,
+        "gsr": 34496.0,
+        "ppg": 1791.0,
+        "face_temperature_forehead": 30.050302505493164,
+        "face_temperature_left_cheek": 32.844783782958984,
+        "face_temperature_right_cheek": 31.353260040283203,
+        "face_temperature_left_nose": 34.018375396728516,
+        "eye_blink_rate": 11.131669044494629
+    },
+    {
+        "timestamp": 1743342565.4135537,
+        "gsr": 34496.0,
+        "ppg": 1380.0,
+        "face_temperature_forehead": 30.022666931152344,
+        "face_temperature_left_cheek": 32.91378402709961,
+        "face_temperature_right_cheek": 31.34209442138672,
+        "face_temperature_left_nose": 34.0218620300293,
+        "eye_blink_rate": 11.13125228881836
+    },
+    {
+        "timestamp": 1743342565.5201967,
+        "gsr": 34498.0,
+        "ppg": 1928.0,
+        "face_temperature_forehead": 29.940908432006836,
+        "face_temperature_left_cheek": 32.89439392089844,
+        "face_temperature_right_cheek": 31.357114791870117,
+        "face_temperature_left_nose": 34.039676666259766,
+        "eye_blink_rate": 11.130767822265625
+    },
+    {
+        "timestamp": 1743342565.6021612,
+        "gsr": 34498.0,
+        "ppg": 1928.0,
+        "face_temperature_forehead": 29.856552124023438,
+        "face_temperature_left_cheek": 33.01542663574219,
+        "face_temperature_right_cheek": 31.40355682373047,
+        "face_temperature_left_nose": 34.228572845458984,
+        "eye_blink_rate": 11.130584716796875
+    },
+    {
+        "timestamp": 1743342565.7079504,
+        "gsr": 34498.0,
+        "ppg": 1928.0,
+        "face_temperature_forehead": 29.86199951171875,
+        "face_temperature_left_cheek": 33.064517974853516,
+        "face_temperature_right_cheek": 31.396047592163086,
+        "face_temperature_left_nose": 34.06864929199219,
+        "eye_blink_rate": 11.130094528198242
+    },
+    {
+        "timestamp": 1743342565.8006659,
+        "gsr": 34498.0,
+        "ppg": 3712.0,
+        "face_temperature_forehead": 29.881818771362305,
+        "face_temperature_left_cheek": 32.987388610839844,
+        "face_temperature_right_cheek": 31.352066040039062,
+        "face_temperature_left_nose": 34.16396713256836,
+        "eye_blink_rate": 11.12987995147705
+    },
+    {
+        "timestamp": 1743342565.9010503,
+        "gsr": 34494.0,
+        "ppg": 1597.0,
+        "face_temperature_forehead": 29.9172420501709,
+        "face_temperature_left_cheek": 33.1074333190918,
+        "face_temperature_right_cheek": 31.37674903869629,
+        "face_temperature_left_nose": 34.05376052856445,
+        "eye_blink_rate": 11.129426002502441
+    },
+    {
+        "timestamp": 1743342566.0023966,
+        "gsr": 34494.0,
+        "ppg": 1597.0,
+        "face_temperature_forehead": 29.835058212280273,
+        "face_temperature_left_cheek": 33.05659866333008,
+        "face_temperature_right_cheek": 31.37569236755371,
+        "face_temperature_left_nose": 34.18259048461914,
+        "eye_blink_rate": 11.129189491271973
+    },
+    {
+        "timestamp": 1743342566.1094253,
+        "gsr": 34491.0,
+        "ppg": 1430.0,
+        "face_temperature_forehead": 29.73107147216797,
+        "face_temperature_left_cheek": 33.045162200927734,
+        "face_temperature_right_cheek": 31.376283645629883,
+        "face_temperature_left_nose": 34.28340148925781,
+        "eye_blink_rate": 11.128734588623047
+    },
+    {
+        "timestamp": 1743342566.2159257,
+        "gsr": 34494.0,
+        "ppg": 1333.0,
+        "face_temperature_forehead": 29.701818466186523,
+        "face_temperature_left_cheek": 32.998680114746094,
+        "face_temperature_right_cheek": 31.407114028930664,
+        "face_temperature_left_nose": 34.33307647705078,
+        "eye_blink_rate": 11.12850570678711
+    },
+    {
+        "timestamp": 1743342566.3225222,
+        "gsr": 34494.0,
+        "ppg": 1333.0,
+        "face_temperature_forehead": 29.746665954589844,
+        "face_temperature_left_cheek": 33.012481689453125,
+        "face_temperature_right_cheek": 31.39710235595703,
+        "face_temperature_left_nose": 34.32105255126953,
+        "eye_blink_rate": 11.128030776977539
+    },
+    {
+        "timestamp": 1743342566.3985715,
+        "gsr": 34494.0,
+        "ppg": 1333.0,
+        "face_temperature_forehead": 29.829309463500977,
+        "face_temperature_left_cheek": 32.92595291137695,
+        "face_temperature_right_cheek": 31.36324119567871,
+        "face_temperature_left_nose": 34.3188591003418,
+        "eye_blink_rate": 11.127809524536133
+    },
+    {
+        "timestamp": 1743342566.4987247,
+        "gsr": 34493.0,
+        "ppg": 3126.0,
+        "face_temperature_forehead": 29.72517204284668,
+        "face_temperature_left_cheek": 32.97713851928711,
+        "face_temperature_right_cheek": 31.36880874633789,
+        "face_temperature_left_nose": 34.461402893066406,
+        "eye_blink_rate": 11.127364158630371
+    },
+    {
+        "timestamp": 1743342566.599671,
+        "gsr": 34493.0,
+        "ppg": 3126.0,
+        "face_temperature_forehead": 29.776897430419922,
+        "face_temperature_left_cheek": 33.01028823852539,
+        "face_temperature_right_cheek": 31.399810791015625,
+        "face_temperature_left_nose": 34.23198318481445,
+        "eye_blink_rate": 11.127107620239258
+    },
+    {
+        "timestamp": 1743342566.7009754,
+        "gsr": 34496.0,
+        "ppg": 1578.0,
+        "face_temperature_forehead": 29.735713958740234,
+        "face_temperature_left_cheek": 32.92448806762695,
+        "face_temperature_right_cheek": 31.402963638305664,
+        "face_temperature_left_nose": 34.33157730102539,
+        "eye_blink_rate": 20.73993682861328
+    },
+    {
+        "timestamp": 1743342566.8043327,
+        "gsr": 34496.0,
+        "ppg": 1578.0,
+        "face_temperature_forehead": 29.856332778930664,
+        "face_temperature_left_cheek": 32.95381164550781,
+        "face_temperature_right_cheek": 31.341106414794922,
+        "face_temperature_left_nose": 34.257896423339844,
+        "eye_blink_rate": 20.73971176147461
+    },
+    {
+        "timestamp": 1743342566.9118247,
+        "gsr": 34496.0,
+        "ppg": 1578.0,
+        "face_temperature_forehead": 29.71347999572754,
+        "face_temperature_left_cheek": 32.961971282958984,
+        "face_temperature_right_cheek": 31.42689323425293,
+        "face_temperature_left_nose": 34.24817657470703,
+        "eye_blink_rate": 12.339232444763184
+    },
+    {
+        "timestamp": 1743342567.0189779,
+        "gsr": 34496.0,
+        "ppg": 1578.0,
+        "face_temperature_forehead": 29.831817626953125,
+        "face_temperature_left_cheek": 32.86697006225586,
+        "face_temperature_right_cheek": 31.42766761779785,
+        "face_temperature_left_nose": 34.24979782104492,
+        "eye_blink_rate": 12.339018821716309
+    },
+    {
+        "timestamp": 1743342567.0990274,
+        "gsr": 34500.0,
+        "ppg": 1392.0,
+        "face_temperature_forehead": 29.8542423248291,
+        "face_temperature_left_cheek": 32.84867858886719,
+        "face_temperature_right_cheek": 31.39130401611328,
+        "face_temperature_left_nose": 34.22267150878906,
+        "eye_blink_rate": 12.338549613952637
+    },
+    {
+        "timestamp": 1743342567.1985333,
+        "gsr": 34500.0,
+        "ppg": 1392.0,
+        "face_temperature_forehead": 29.81333351135254,
+        "face_temperature_left_cheek": 32.82515335083008,
+        "face_temperature_right_cheek": 31.404348373413086,
+        "face_temperature_left_nose": 34.252227783203125,
+        "eye_blink_rate": 12.338321685791016
+    },
+    {
+        "timestamp": 1743342567.2984607,
+        "gsr": 34497.0,
+        "ppg": 1420.0,
+        "face_temperature_forehead": 29.799713134765625,
+        "face_temperature_left_cheek": 32.83797836303711,
+        "face_temperature_right_cheek": 31.376033782958984,
+        "face_temperature_left_nose": 34.38425827026367,
+        "eye_blink_rate": 12.337878227233887
+    },
+    {
+        "timestamp": 1743342567.399402,
+        "gsr": 34500.0,
+        "ppg": 1540.0,
+        "face_temperature_forehead": 29.881000518798828,
+        "face_temperature_left_cheek": 32.89545440673828,
+        "face_temperature_right_cheek": 31.450790405273438,
+        "face_temperature_left_nose": 34.15262985229492,
+        "eye_blink_rate": 12.337630271911621
+    },
+    {
+        "timestamp": 1743342567.5001214,
+        "gsr": 34500.0,
+        "ppg": 1540.0,
+        "face_temperature_forehead": 29.74984359741211,
+        "face_temperature_left_cheek": 32.810150146484375,
+        "face_temperature_right_cheek": 31.463834762573242,
+        "face_temperature_left_nose": 34.340484619140625,
+        "eye_blink_rate": 12.337165832519531
+    },
+    {
+        "timestamp": 1743342567.6080666,
+        "gsr": 34500.0,
+        "ppg": 1540.0,
+        "face_temperature_forehead": 29.90636444091797,
+        "face_temperature_left_cheek": 32.888484954833984,
+        "face_temperature_right_cheek": 31.44426918029785,
+        "face_temperature_left_nose": 34.23552703857422,
+        "eye_blink_rate": 12.336935043334961
+    },
+    {
+        "timestamp": 1743342567.714611,
+        "gsr": 34503.0,
+        "ppg": 1533.0,
+        "face_temperature_forehead": 29.782499313354492,
+        "face_temperature_left_cheek": 32.91999816894531,
+        "face_temperature_right_cheek": 31.434585571289062,
+        "face_temperature_left_nose": 34.158546447753906,
+        "eye_blink_rate": 12.33646011352539
+    },
+    {
+        "timestamp": 1743342567.8218293,
+        "gsr": 34504.0,
+        "ppg": 1514.0,
+        "face_temperature_forehead": 29.918275833129883,
+        "face_temperature_left_cheek": 32.79575729370117,
+        "face_temperature_right_cheek": 31.319368362426758,
+        "face_temperature_left_nose": 34.214813232421875,
+        "eye_blink_rate": 12.336240768432617
+    },
+    {
+        "timestamp": 1743342567.9014907,
+        "gsr": 34504.0,
+        "ppg": 1514.0,
+        "face_temperature_forehead": 29.860332489013672,
+        "face_temperature_left_cheek": 33.090030670166016,
+        "face_temperature_right_cheek": 31.383399963378906,
+        "face_temperature_left_nose": 34.04129409790039,
+        "eye_blink_rate": 12.335789680480957
+    },
+    {
+        "timestamp": 1743342567.9998925,
+        "gsr": 34505.0,
+        "ppg": 3707.0,
+        "face_temperature_forehead": 29.871261596679688,
+        "face_temperature_left_cheek": 33.012611389160156,
+        "face_temperature_right_cheek": 31.197521209716797,
+        "face_temperature_left_nose": 34.13675308227539,
+        "eye_blink_rate": 12.335539817810059
+    },
+    {
+        "timestamp": 1743342568.098654,
+        "gsr": 34505.0,
+        "ppg": 3707.0,
+        "face_temperature_forehead": 29.701704025268555,
+        "face_temperature_left_cheek": 33.2082633972168,
+        "face_temperature_right_cheek": 31.32975196838379,
+        "face_temperature_left_nose": 34.42461395263672,
+        "eye_blink_rate": 12.335070610046387
+    },
+    {
+        "timestamp": 1743342568.1996794,
+        "gsr": 34505.0,
+        "ppg": 3707.0,
+        "face_temperature_forehead": 29.805713653564453,
+        "face_temperature_left_cheek": 33.525001525878906,
+        "face_temperature_right_cheek": 31.303247451782227,
+        "face_temperature_left_nose": 34.32619094848633,
+        "eye_blink_rate": 12.334853172302246
+    },
+    {
+        "timestamp": 1743342568.3028162,
+        "gsr": 34505.0,
+        "ppg": 3707.0,
+        "face_temperature_forehead": 29.636207580566406,
+        "face_temperature_left_cheek": 33.6947021484375,
+        "face_temperature_right_cheek": 31.329679489135742,
+        "face_temperature_left_nose": 34.36240768432617,
+        "eye_blink_rate": 12.33436107635498
+    },
+    {
+        "timestamp": 1743342568.4094746,
+        "gsr": 34508.0,
+        "ppg": 1584.0,
+        "face_temperature_forehead": 28.789663314819336,
+        "face_temperature_left_cheek": 33.734344482421875,
+        "face_temperature_right_cheek": 31.118045806884766,
+        "face_temperature_left_nose": 33.586326599121094,
+        "eye_blink_rate": 12.334147453308105
+    },
+    {
+        "timestamp": 1743342568.5177426,
+        "gsr": 34508.0,
+        "ppg": 1584.0,
+        "face_temperature_forehead": 29.621826171875,
+        "face_temperature_left_cheek": 33.77002716064453,
+        "face_temperature_right_cheek": 31.26630401611328,
+        "face_temperature_left_nose": 34.36729431152344,
+        "eye_blink_rate": 12.333688735961914
+    },
+    {
+        "timestamp": 1743342568.6004825,
+        "gsr": 34510.0,
+        "ppg": 1347.0,
+        "face_temperature_forehead": 29.641963958740234,
+        "face_temperature_left_cheek": 33.7730712890625,
+        "face_temperature_right_cheek": 31.261625289916992,
+        "face_temperature_left_nose": 34.38420867919922,
+        "eye_blink_rate": 12.333484649658203
+    },
+    {
+        "timestamp": 1743342568.7018857,
+        "gsr": 34514.0,
+        "ppg": 1411.0,
+        "face_temperature_forehead": 28.89137840270996,
+        "face_temperature_left_cheek": 33.76542663574219,
+        "face_temperature_right_cheek": 31.101364135742188,
+        "face_temperature_left_nose": 33.71623992919922,
+        "eye_blink_rate": 12.333009719848633
+    },
+    {
+        "timestamp": 1743342568.7998767,
+        "gsr": 34514.0,
+        "ppg": 1411.0,
+        "face_temperature_forehead": 28.548011779785156,
+        "face_temperature_left_cheek": 33.78693771362305,
+        "face_temperature_right_cheek": 31.210525512695312,
+        "face_temperature_left_nose": 33.50814437866211,
+        "eye_blink_rate": 12.332781791687012
+    },
+    {
+        "timestamp": 1743342568.902492,
+        "gsr": 34514.0,
+        "ppg": 1411.0,
+        "face_temperature_forehead": 28.520294189453125,
+        "face_temperature_left_cheek": 33.81010055541992,
+        "face_temperature_right_cheek": 31.218095779418945,
+        "face_temperature_left_nose": 33.46515655517578,
+        "eye_blink_rate": 12.33232593536377
+    },
+    {
+        "timestamp": 1743342568.9988778,
+        "gsr": 34519.0,
+        "ppg": 3810.0,
+        "face_temperature_forehead": 28.5125675201416,
+        "face_temperature_left_cheek": 33.910614013671875,
+        "face_temperature_right_cheek": 31.114564895629883,
+        "face_temperature_left_nose": 33.427730560302734,
+        "eye_blink_rate": 12.332083702087402
+    },
+    {
+        "timestamp": 1743342569.1057606,
+        "gsr": 34516.0,
+        "ppg": 2960.0,
+        "face_temperature_forehead": 28.62925910949707,
+        "face_temperature_left_cheek": 33.86493682861328,
+        "face_temperature_right_cheek": 31.227380752563477,
+        "face_temperature_left_nose": 33.5479621887207,
+        "eye_blink_rate": 12.331622123718262
+    },
+    {
+        "timestamp": 1743342569.2132926,
+        "gsr": 34516.0,
+        "ppg": 2960.0,
+        "face_temperature_forehead": 29.061786651611328,
+        "face_temperature_left_cheek": 33.83551025390625,
+        "face_temperature_right_cheek": 31.31277084350586,
+        "face_temperature_left_nose": 33.900001525878906,
+        "eye_blink_rate": 12.33141040802002
+    },
+    {
+        "timestamp": 1743342569.3205254,
+        "gsr": 34528.0,
+        "ppg": 1326.0,
+        "face_temperature_forehead": 29.061786651611328,
+        "face_temperature_left_cheek": 33.83551025390625,
+        "face_temperature_right_cheek": 31.31277084350586,
+        "face_temperature_left_nose": 33.900001525878906,
+        "eye_blink_rate": 12.330951690673828
+    },
+    {
+        "timestamp": 1743342569.4006472,
+        "gsr": 34528.0,
+        "ppg": 1326.0,
+        "face_temperature_forehead": 28.941333770751953,
+        "face_temperature_left_cheek": 33.82081985473633,
+        "face_temperature_right_cheek": 31.332683563232422,
+        "face_temperature_left_nose": 33.895545959472656,
+        "eye_blink_rate": 12.330707550048828
+    },
+    {
+        "timestamp": 1743342569.4993694,
+        "gsr": 34528.0,
+        "ppg": 1326.0,
+        "face_temperature_forehead": 28.941333770751953,
+        "face_temperature_left_cheek": 33.82081985473633,
+        "face_temperature_right_cheek": 31.332683563232422,
+        "face_temperature_left_nose": 33.895545959472656,
+        "eye_blink_rate": 12.330266952514648
+    },
+    {
+        "timestamp": 1743342569.5988088,
+        "gsr": 34528.0,
+        "ppg": 1326.0,
+        "face_temperature_forehead": 29.22145652770996,
+        "face_temperature_left_cheek": 33.8410530090332,
+        "face_temperature_right_cheek": 31.227705001831055,
+        "face_temperature_left_nose": 34.06052780151367,
+        "eye_blink_rate": 12.330047607421875
+    },
+    {
+        "timestamp": 1743342569.7009306,
+        "gsr": 34533.0,
+        "ppg": 2855.0,
+        "face_temperature_forehead": 29.05172348022461,
+        "face_temperature_left_cheek": 33.82556915283203,
+        "face_temperature_right_cheek": 31.21320343017578,
+        "face_temperature_left_nose": 33.85982894897461,
+        "eye_blink_rate": 12.329572677612305
+    },
+    {
+        "timestamp": 1743342569.804383,
+        "gsr": 34533.0,
+        "ppg": 2855.0,
+        "face_temperature_forehead": 29.68666648864746,
+        "face_temperature_left_cheek": 33.58668518066406,
+        "face_temperature_right_cheek": 31.316402435302734,
+        "face_temperature_left_nose": 34.08196258544922,
+        "eye_blink_rate": 12.329360008239746
+    },
+    {
+        "timestamp": 1743342569.9121442,
+        "gsr": 34539.0,
+        "ppg": 1655.0,
+        "face_temperature_forehead": 29.769229888916016,
+        "face_temperature_left_cheek": 33.37840270996094,
+        "face_temperature_right_cheek": 31.352537155151367,
+        "face_temperature_left_nose": 34.048683166503906,
+        "eye_blink_rate": 12.328858375549316
+    },
+    {
+        "timestamp": 1743342570.0201442,
+        "gsr": 34557.0,
+        "ppg": 1497.0,
+        "face_temperature_forehead": 29.710119247436523,
+        "face_temperature_left_cheek": 33.293827056884766,
+        "face_temperature_right_cheek": 31.353307723999023,
+        "face_temperature_left_nose": 34.01814651489258,
+        "eye_blink_rate": 12.328664779663086
+    },
+    {
+        "timestamp": 1743342570.0987523,
+        "gsr": 34557.0,
+        "ppg": 1497.0,
+        "face_temperature_forehead": 29.85659408569336,
+        "face_temperature_left_cheek": 32.89635467529297,
+        "face_temperature_right_cheek": 31.305072784423828,
+        "face_temperature_left_nose": 34.29586410522461,
+        "eye_blink_rate": 12.328206062316895
+    },
+    {
+        "timestamp": 1743342570.1984944,
+        "gsr": 34557.0,
+        "ppg": 1497.0,
+        "face_temperature_forehead": 29.86055564880371,
+        "face_temperature_left_cheek": 32.5469856262207,
+        "face_temperature_right_cheek": 31.388174057006836,
+        "face_temperature_left_nose": 34.06541442871094,
+        "eye_blink_rate": 12.327958106994629
+    },
+    {
+        "timestamp": 1743342570.2991388,
+        "gsr": 34557.0,
+        "ppg": 1497.0,
+        "face_temperature_forehead": 29.984375,
+        "face_temperature_left_cheek": 32.47378921508789,
+        "face_temperature_right_cheek": 31.402727127075195,
+        "face_temperature_left_nose": 33.977821350097656,
+        "eye_blink_rate": 12.327492713928223
+    },
+    {
+        "timestamp": 1743342570.3992207,
+        "gsr": 34563.0,
+        "ppg": 1874.0,
+        "face_temperature_forehead": 29.759658813476562,
+        "face_temperature_left_cheek": 32.408939361572266,
+        "face_temperature_right_cheek": 31.448545455932617,
+        "face_temperature_left_nose": 34.01785659790039,
+        "eye_blink_rate": 12.327272415161133
+    },
+    {
+        "timestamp": 1743342570.5018919,
+        "gsr": 34571.0,
+        "ppg": 2582.0,
+        "face_temperature_forehead": 29.582134246826172,
+        "face_temperature_left_cheek": 32.44449234008789,
+        "face_temperature_right_cheek": 31.509218215942383,
+        "face_temperature_left_nose": 34.06623458862305,
+        "eye_blink_rate": 12.326825141906738
+    },
+    {
+        "timestamp": 1743342570.6089656,
+        "gsr": 34583.0,
+        "ppg": 1724.0,
+        "face_temperature_forehead": 29.57682228088379,
+        "face_temperature_left_cheek": 32.49985122680664,
+        "face_temperature_right_cheek": 31.494482040405273,
+        "face_temperature_left_nose": 34.05533218383789,
+        "eye_blink_rate": 12.326602935791016
+    },
+    {
+        "timestamp": 1743342570.7161236,
+        "gsr": 34583.0,
+        "ppg": 1724.0,
+        "face_temperature_forehead": 29.648717880249023,
+        "face_temperature_left_cheek": 32.568214416503906,
+        "face_temperature_right_cheek": 31.505685806274414,
+        "face_temperature_left_nose": 34.003929138183594,
+        "eye_blink_rate": 12.326138496398926
+    },
+    {
+        "timestamp": 1743342570.8274777,
+        "gsr": 34583.0,
+        "ppg": 1724.0,
+        "face_temperature_forehead": 29.64278793334961,
+        "face_temperature_left_cheek": 32.57466125488281,
+        "face_temperature_right_cheek": 31.544445037841797,
+        "face_temperature_left_nose": 34.07720947265625,
+        "eye_blink_rate": 12.32590103149414
+    },
+    {
+        "timestamp": 1743342570.8990808,
+        "gsr": 34584.0,
+        "ppg": 1565.0,
+        "face_temperature_forehead": 29.64256477355957,
+        "face_temperature_left_cheek": 32.63178253173828,
+        "face_temperature_right_cheek": 31.52157211303711,
+        "face_temperature_left_nose": 34.123130798339844,
+        "eye_blink_rate": 12.325433731079102
+    },
+    {
+        "timestamp": 1743342571.001803,
+        "gsr": 34591.0,
+        "ppg": 1352.0,
+        "face_temperature_forehead": 29.86380958557129,
+        "face_temperature_left_cheek": 32.79898452758789,
+        "face_temperature_right_cheek": 31.574434280395508,
+        "face_temperature_left_nose": 34.16928482055664,
+        "eye_blink_rate": 12.325224876403809
+    },
+    {
+        "timestamp": 1743342571.0986614,
+        "gsr": 34591.0,
+        "ppg": 1352.0,
+        "face_temperature_forehead": 29.957294464111328,
+        "face_temperature_left_cheek": 33.0177001953125,
+        "face_temperature_right_cheek": 31.531129837036133,
+        "face_temperature_left_nose": 34.317501068115234,
+        "eye_blink_rate": 12.324779510498047
+    },
+    {
+        "timestamp": 1743342571.2001572,
+        "gsr": 34598.0,
+        "ppg": 1534.0,
+        "face_temperature_forehead": 29.944297790527344,
+        "face_temperature_left_cheek": 33.122581481933594,
+        "face_temperature_right_cheek": 31.59634780883789,
+        "face_temperature_left_nose": 34.272789001464844,
+        "eye_blink_rate": 12.324563980102539
+    },
+    {
+        "timestamp": 1743342571.3051674,
+        "gsr": 34598.0,
+        "ppg": 1534.0,
+        "face_temperature_forehead": 29.886011123657227,
+        "face_temperature_left_cheek": 33.016971588134766,
+        "face_temperature_right_cheek": 31.469696044921875,
+        "face_temperature_left_nose": 34.491092681884766,
+        "eye_blink_rate": 12.3240966796875
+    },
+    {
+        "timestamp": 1743342571.411917,
+        "gsr": 34598.0,
+        "ppg": 1534.0,
+        "face_temperature_forehead": 29.972618103027344,
+        "face_temperature_left_cheek": 33.145652770996094,
+        "face_temperature_right_cheek": 31.557065963745117,
+        "face_temperature_left_nose": 34.25408172607422,
+        "eye_blink_rate": 12.323650360107422
+    },
+    {
+        "timestamp": 1743342571.519531,
+        "gsr": 34598.0,
+        "ppg": 1534.0,
+        "face_temperature_forehead": 29.921104431152344,
+        "face_temperature_left_cheek": 33.25806427001953,
+        "face_temperature_right_cheek": 31.514129638671875,
+        "face_temperature_left_nose": 34.27381134033203,
+        "eye_blink_rate": 12.323410034179688
+    },
+    {
+        "timestamp": 1743342571.6008604,
+        "gsr": 34602.0,
+        "ppg": 1367.0,
+        "face_temperature_forehead": 29.971111297607422,
+        "face_temperature_left_cheek": 33.21014404296875,
+        "face_temperature_right_cheek": 31.494518280029297,
+        "face_temperature_left_nose": 34.2167854309082,
+        "eye_blink_rate": 12.32296085357666
+    },
+    {
+        "timestamp": 1743342571.7004921,
+        "gsr": 34602.0,
+        "ppg": 1367.0,
+        "face_temperature_forehead": 29.920063018798828,
+        "face_temperature_left_cheek": 33.1925048828125,
+        "face_temperature_right_cheek": 31.523006439208984,
+        "face_temperature_left_nose": 34.27821350097656,
+        "eye_blink_rate": 12.322733879089355
+    },
+    {
+        "timestamp": 1743342571.7988095,
+        "gsr": 34608.0,
+        "ppg": 3032.0,
+        "face_temperature_forehead": 29.839935302734375,
+        "face_temperature_left_cheek": 33.151275634765625,
+        "face_temperature_right_cheek": 31.520694732666016,
+        "face_temperature_left_nose": 34.310001373291016,
+        "eye_blink_rate": 3.9222917556762695
+    },
+    {
+        "timestamp": 1743342571.8993888,
+        "gsr": 34606.0,
+        "ppg": 2506.0,
+        "face_temperature_forehead": 29.897701263427734,
+        "face_temperature_left_cheek": 33.19850158691406,
+        "face_temperature_right_cheek": 31.518781661987305,
+        "face_temperature_left_nose": 34.272857666015625,
+        "eye_blink_rate": 3.9220523834228516
+    },
+    {
+        "timestamp": 1743342572.0020492,
+        "gsr": 34606.0,
+        "ppg": 2506.0,
+        "face_temperature_forehead": 29.93948745727539,
+        "face_temperature_left_cheek": 33.222755432128906,
+        "face_temperature_right_cheek": 31.583478927612305,
+        "face_temperature_left_nose": 34.20565414428711,
+        "eye_blink_rate": 3.921621799468994
+    },
+    {
+        "timestamp": 1743342572.1086137,
+        "gsr": 34606.0,
+        "ppg": 2506.0,
+        "face_temperature_forehead": 29.949350357055664,
+        "face_temperature_left_cheek": 33.20579528808594,
+        "face_temperature_right_cheek": 31.526260375976562,
+        "face_temperature_left_nose": 34.32392883300781,
+        "eye_blink_rate": 3.921388864517212
+    },
+    {
+        "timestamp": 1743342572.215907,
+        "gsr": 34610.0,
+        "ppg": 1697.0,
+        "face_temperature_forehead": 29.931034088134766,
+        "face_temperature_left_cheek": 33.27421188354492,
+        "face_temperature_right_cheek": 31.514434814453125,
+        "face_temperature_left_nose": 34.22035217285156,
+        "eye_blink_rate": 3.9209365844726562
+    },
+    {
+        "timestamp": 1743342572.3229713,
+        "gsr": 34610.0,
+        "ppg": 1697.0,
+        "face_temperature_forehead": 29.98302459716797,
+        "face_temperature_left_cheek": 33.27985382080078,
+        "face_temperature_right_cheek": 31.460521697998047,
+        "face_temperature_left_nose": 34.35112762451172,
+        "eye_blink_rate": 3.920705795288086
+    },
+    {
+        "timestamp": 1743342572.4024024,
+        "gsr": 34614.0,
+        "ppg": 1481.0,
+        "face_temperature_forehead": 29.937143325805664,
+        "face_temperature_left_cheek": 33.33133316040039,
+        "face_temperature_right_cheek": 31.497913360595703,
+        "face_temperature_left_nose": 34.310150146484375,
+        "eye_blink_rate": 3.920257329940796
+    },
+    {
+        "timestamp": 1743342572.4984236,
+        "gsr": 34620.0,
+        "ppg": 1896.0,
+        "face_temperature_forehead": 30.044445037841797,
+        "face_temperature_left_cheek": 33.356666564941406,
+        "face_temperature_right_cheek": 31.502782821655273,
+        "face_temperature_left_nose": 34.25035858154297,
+        "eye_blink_rate": 3.920027256011963
+    },
+    {
+        "timestamp": 1743342572.5994847,
+        "gsr": 34620.0,
+        "ppg": 1896.0,
+        "face_temperature_forehead": 30.04910659790039,
+        "face_temperature_left_cheek": 33.3669548034668,
+        "face_temperature_right_cheek": 31.519651412963867,
+        "face_temperature_left_nose": 34.306766510009766,
+        "eye_blink_rate": 3.919579029083252
+    },
+    {
+        "timestamp": 1743342572.701794,
+        "gsr": 34620.0,
+        "ppg": 1896.0,
+        "face_temperature_forehead": 30.00384521484375,
+        "face_temperature_left_cheek": 33.467464447021484,
+        "face_temperature_right_cheek": 31.469913482666016,
+        "face_temperature_left_nose": 34.31684112548828,
+        "eye_blink_rate": 3.9193427562713623
+    },
+    {
+        "timestamp": 1743342572.804325,
+        "gsr": 34623.0,
+        "ppg": 2992.0,
+        "face_temperature_forehead": 30.009614944458008,
+        "face_temperature_left_cheek": 33.482425689697266,
+        "face_temperature_right_cheek": 31.39299201965332,
+        "face_temperature_left_nose": 34.285186767578125,
+        "eye_blink_rate": 3.9188950061798096
+    },
+    {
+        "timestamp": 1743342572.9117408,
+        "gsr": 34624.0,
+        "ppg": 1589.0,
+        "face_temperature_forehead": 30.033023834228516,
+        "face_temperature_left_cheek": 33.46246337890625,
+        "face_temperature_right_cheek": 31.44438362121582,
+        "face_temperature_left_nose": 34.257896423339844,
+        "eye_blink_rate": 3.9186723232269287
+    },
+    {
+        "timestamp": 1743342573.0190246,
+        "gsr": 34624.0,
+        "ppg": 1589.0,
+        "face_temperature_forehead": 29.967132568359375,
+        "face_temperature_left_cheek": 33.469566345214844,
+        "face_temperature_right_cheek": 31.439311981201172,
+        "face_temperature_left_nose": 34.31178665161133,
+        "eye_blink_rate": 3.9184556007385254
+    },
+    {
+        "timestamp": 1743342573.1016684,
+        "gsr": 34630.0,
+        "ppg": 1612.0,
+        "face_temperature_forehead": 29.687307357788086,
+        "face_temperature_left_cheek": 33.49105453491211,
+        "face_temperature_right_cheek": 31.297618865966797,
+        "face_temperature_left_nose": 34.15833282470703,
+        "eye_blink_rate": 3.9179277420043945
+    },
+    {
+        "timestamp": 1743342573.1987274,
+        "gsr": 34635.0,
+        "ppg": 1403.0,
+        "face_temperature_forehead": 29.894155502319336,
+        "face_temperature_left_cheek": 33.39811706542969,
+        "face_temperature_right_cheek": 31.44565200805664,
+        "face_temperature_left_nose": 34.30385971069336,
+        "eye_blink_rate": 3.9175446033477783
+    },
+    {
+        "timestamp": 1743342573.2990525,
+        "gsr": 34635.0,
+        "ppg": 1403.0,
+        "face_temperature_forehead": 29.842500686645508,
+        "face_temperature_left_cheek": 33.29695510864258,
+        "face_temperature_right_cheek": 31.47228240966797,
+        "face_temperature_left_nose": 34.28571319580078,
+        "eye_blink_rate": 3.9172756671905518
+    },
+    {
+        "timestamp": 1743342573.3986723,
+        "gsr": 34635.0,
+        "ppg": 1403.0,
+        "face_temperature_forehead": 29.972023010253906,
+        "face_temperature_left_cheek": 33.312896728515625,
+        "face_temperature_right_cheek": 31.455434799194336,
+        "face_temperature_left_nose": 34.244285583496094,
+        "eye_blink_rate": 3.916862726211548
+    },
+    {
+        "timestamp": 1743342573.4998999,
+        "gsr": 34634.0,
+        "ppg": 2650.0,
+        "face_temperature_forehead": 29.852142333984375,
+        "face_temperature_left_cheek": 33.29782485961914,
+        "face_temperature_right_cheek": 31.45199966430664,
+        "face_temperature_left_nose": 34.331787109375,
+        "eye_blink_rate": 3.9166386127471924
+    },
+    {
+        "timestamp": 1743342573.6064215,
+        "gsr": 34634.0,
+        "ppg": 2650.0,
+        "face_temperature_forehead": 29.913637161254883,
+        "face_temperature_left_cheek": 33.257572174072266,
+        "face_temperature_right_cheek": 31.471920013427734,
+        "face_temperature_left_nose": 34.32033157348633,
+        "eye_blink_rate": 3.9164090156555176
+    },
+    {
+        "timestamp": 1743342573.714165,
+        "gsr": 34631.0,
+        "ppg": 1465.0,
+        "face_temperature_forehead": 29.905519485473633,
+        "face_temperature_left_cheek": 33.29651641845703,
+        "face_temperature_right_cheek": 31.45795440673828,
+        "face_temperature_left_nose": 34.27033233642578,
+        "eye_blink_rate": 3.91593074798584
+    },
+    {
+        "timestamp": 1743342573.8210084,
+        "gsr": 34634.0,
+        "ppg": 1584.0,
+        "face_temperature_forehead": 29.875324249267578,
+        "face_temperature_left_cheek": 33.43121337890625,
+        "face_temperature_right_cheek": 31.451704025268555,
+        "face_temperature_left_nose": 34.29499816894531,
+        "eye_blink_rate": 3.9155068397521973
+    },
+    {
+        "timestamp": 1743342573.9004855,
+        "gsr": 34634.0,
+        "ppg": 1584.0,
+        "face_temperature_forehead": 29.948888778686523,
+        "face_temperature_left_cheek": 33.452030181884766,
+        "face_temperature_right_cheek": 31.467029571533203,
+        "face_temperature_left_nose": 34.29999923706055,
+        "eye_blink_rate": 3.915276288986206
+    },
+    {
+        "timestamp": 1743342573.9989443,
+        "gsr": 34634.0,
+        "ppg": 1584.0,
+        "face_temperature_forehead": 29.816883087158203,
+        "face_temperature_left_cheek": 33.38807678222656,
+        "face_temperature_right_cheek": 31.33517837524414,
+        "face_temperature_left_nose": 34.287696838378906,
+        "eye_blink_rate": 3.9148573875427246
+    },
+    {
+        "timestamp": 1743342574.0995033,
+        "gsr": 34631.0,
+        "ppg": 1418.0,
+        "face_temperature_forehead": 29.99517250061035,
+        "face_temperature_left_cheek": 33.3737678527832,
+        "face_temperature_right_cheek": 31.503442764282227,
+        "face_temperature_left_nose": 34.290714263916016,
+        "eye_blink_rate": 3.9145925045013428
+    },
+    {
+        "timestamp": 1743342574.1984274,
+        "gsr": 34633.0,
+        "ppg": 1460.0,
+        "face_temperature_forehead": 29.99517250061035,
+        "face_temperature_left_cheek": 33.3737678527832,
+        "face_temperature_right_cheek": 31.503442764282227,
+        "face_temperature_left_nose": 34.290714263916016,
+        "eye_blink_rate": 3.914175510406494
+    },
+    {
+        "timestamp": 1743342574.3033237,
+        "gsr": 34633.0,
+        "ppg": 1460.0,
+        "face_temperature_forehead": 30.134876251220703,
+        "face_temperature_left_cheek": 33.3474235534668,
+        "face_temperature_right_cheek": 31.455730438232422,
+        "face_temperature_left_nose": 34.35413360595703,
+        "eye_blink_rate": 3.9139583110809326
+    },
+    {
+        "timestamp": 1743342574.410649,
+        "gsr": 34625.0,
+        "ppg": 1611.0,
+        "face_temperature_forehead": 29.920202255249023,
+        "face_temperature_left_cheek": 33.435482025146484,
+        "face_temperature_right_cheek": 31.507427215576172,
+        "face_temperature_left_nose": 34.451786041259766,
+        "eye_blink_rate": 3.9134883880615234
+    },
+    {
+        "timestamp": 1743342574.5186136,
+        "gsr": 34628.0,
+        "ppg": 1436.0,
+        "face_temperature_forehead": 29.818452835083008,
+        "face_temperature_left_cheek": 33.37238693237305,
+        "face_temperature_right_cheek": 31.533384323120117,
+        "face_temperature_left_nose": 34.17333221435547,
+        "eye_blink_rate": 3.91329026222229
+    },
+    {
+        "timestamp": 1743342574.6004913,
+        "gsr": 34628.0,
+        "ppg": 1436.0,
+        "face_temperature_forehead": 29.84058380126953,
+        "face_temperature_left_cheek": 33.29005432128906,
+        "face_temperature_right_cheek": 31.50083351135254,
+        "face_temperature_left_nose": 34.216331481933594,
+        "eye_blink_rate": 3.912806272506714
+    },
+    {
+        "timestamp": 1743342574.701251,
+        "gsr": 34628.0,
+        "ppg": 1436.0,
+        "face_temperature_forehead": 29.878515243530273,
+        "face_temperature_left_cheek": 33.25319290161133,
+        "face_temperature_right_cheek": 31.554166793823242,
+        "face_temperature_left_nose": 34.29301452636719,
+        "eye_blink_rate": 3.912605047225952
+    },
+    {
+        "timestamp": 1743342574.799787,
+        "gsr": 34625.0,
+        "ppg": 1643.0,
+        "face_temperature_forehead": 29.9858341217041,
+        "face_temperature_left_cheek": 33.31680679321289,
+        "face_temperature_right_cheek": 31.526832580566406,
+        "face_temperature_left_nose": 34.286983489990234,
+        "eye_blink_rate": 3.912151336669922
+    },
+    {
+        "timestamp": 1743342574.9004624,
+        "gsr": 34625.0,
+        "ppg": 1643.0,
+        "face_temperature_forehead": 29.84885025024414,
+        "face_temperature_left_cheek": 33.397499084472656,
+        "face_temperature_right_cheek": 31.513368606567383,
+        "face_temperature_left_nose": 34.30428695678711,
+        "eye_blink_rate": 3.911924362182617
+    },
+    {
+        "timestamp": 1743342575.0029805,
+        "gsr": 34616.0,
+        "ppg": 3266.0,
+        "face_temperature_forehead": 29.892423629760742,
+        "face_temperature_left_cheek": 33.42005157470703,
+        "face_temperature_right_cheek": 31.565797805786133,
+        "face_temperature_left_nose": 34.26380920410156,
+        "eye_blink_rate": 3.911691904067993
+    },
+    {
+        "timestamp": 1743342575.1074457,
+        "gsr": 34616.0,
+        "ppg": 3266.0,
+        "face_temperature_forehead": 29.95111083984375,
+        "face_temperature_left_cheek": 33.48513412475586,
+        "face_temperature_right_cheek": 31.44438362121582,
+        "face_temperature_left_nose": 34.43653869628906,
+        "eye_blink_rate": 3.9112677574157715
+    }
+]
