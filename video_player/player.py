@@ -22,7 +22,7 @@ class HRISubscriber(Node):
         super().__init__('hri_subscriber')
         self.subscription = self.create_subscription(
             Float32MultiArray,
-            '/hri_data',
+            '/hri/combined_data',
             self.listener_callback,
             10
         )
@@ -32,9 +32,13 @@ class HRISubscriber(Node):
         if self.recording:
             data = {
                 'timestamp': time.time(),
-                'eye_blink_rate': msg.data[0] if len(msg.data) > 0 else 0.0,
-                'gsr': msg.data[1] if len(msg.data) > 1 else 0.0,
-                'face_temperature': msg.data[2] if len(msg.data) > 2 else 0.0
+                'gsr': msg.data[0] if len(msg.data) > 1 else 0.0,
+                'ppg': msg.data[1] if len(msg.data) > 1 else 0.0,
+                'face_temperature_forehead': msg.data[2] if len(msg.data) > 1 else 0.0,
+                'face_temperature_left_cheek': msg.data[3] if len(msg.data) > 1 else 0.0,
+                'face_temperature_right_cheek': msg.data[4] if len(msg.data) > 1 else 0.0,
+                'face_temperature_left_nose': msg.data[5] if len(msg.data) > 1 else 0.0,
+                'eye_blink_rate': msg.data[6] if len(msg.data) > 1 else 0.0
             }
             hri_data_queue.put(data)
 
@@ -43,6 +47,16 @@ class HRISubscriber(Node):
 
     def stop_recording(self):
         self.recording = False
+
+# Function to recursively traverse the new_data folder and collect video files.
+def get_video_files(root_dir):
+    video_files = []
+    for dirpath, dirnames, filenames in os.walk(root_dir):
+        for file in filenames:
+            if file.lower().endswith(('.mp4', '.webm')):
+                full_path = os.path.join(dirpath, file)
+                video_files.append(full_path)
+    return sorted(video_files)
 
 # VideoPlayer class using Tkinter.
 class VideoPlayer:
@@ -54,11 +68,6 @@ class VideoPlayer:
         self.recorded_data = []  # List to store HRI data for the current video.
         self.cap = None
         self.video_width = initial_width  # default width; will be updated per video
-
-        # Create the data folder if it doesn't exist.
-        self.data_folder = "./data"
-        if not os.path.exists(self.data_folder):
-            os.makedirs(self.data_folder)
 
         # Create a frame for the video display with height fixed at 1080.
         self.video_frame = tk.Frame(root, width=self.video_width, height=1080)
@@ -140,8 +149,8 @@ class VideoPlayer:
 
     def save_data(self):
         video_file = self.video_files[self.current_video_index]
-        base_name = os.path.splitext(os.path.basename(video_file))[0]
-        json_file = os.path.join(self.data_folder, base_name + "_hri_data.json")
+        # Save the HRI data in the same folder with the same base name as the video file.
+        json_file = os.path.splitext(video_file)[0] + ".json"
         try:
             with open(json_file, "w") as f:
                 json.dump(self.recorded_data, f, indent=4)
@@ -155,23 +164,21 @@ def update_ros(hri_subscriber, root):
     root.after(1, update_ros, hri_subscriber, root)
 
 def main():
-    # List your local video files.
-    video_files = [
-        "./vids/1.webm",
-        "./vids/2.webm",
-        "./vids/3.webm"
-    ]
+    # Traverse the new_data folder to collect all video files.
+    video_files = get_video_files("./new_data")
+    if not video_files:
+        print("No video files found in ./new_data")
+        return
 
     # Use the first video to compute the initial width (scaled to height 1080).
     initial_width = 1920  # default fallback
-    if video_files:
-        cap = cv2.VideoCapture(video_files[0])
-        ret, frame = cap.read()
-        if ret:
-            orig_h, orig_w = frame.shape[:2]
-            scale = 1080 / orig_h
-            initial_width = int(orig_w * scale)
-        cap.release()
+    cap = cv2.VideoCapture(video_files[0])
+    ret, frame = cap.read()
+    if ret:
+        orig_h, orig_w = frame.shape[:2]
+        scale = 1080 / orig_h
+        initial_width = int(orig_w * scale)
+    cap.release()
 
     total_height = 1080 + 120  # 1080 for video and 120 for button area
 
