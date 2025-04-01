@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <serial>16070070</serial> <!-- Ensure this matches your camera's serial number -->
+  <videoformatindex>0</videoformatindex> <!-- Adjust based on your desired resolution and framerate -->
+  <formatspath>/usr/share/libirimager</formatspath>
+  <calipath>/usr/share/libirimager/cali</calipath>
+  <dppath>/home/dada/.irimager/Cali</dppath> <!-- Path updated for your computer -->
+  <!-- Uncomment and adjust as needed for your optic and temperature range -->
+  <fov>38</fov> <!-- Adjust to match your camera's field of view -->
+  <temperature>
+    <min>-20</min> <!-- Adjust to match your camera's temperature range -->
+    <max>100</max>
+  </temperature>
+  <optics_text></optics_text>
+  <framerate>32.0</framerate> <!-- Adjust based on your preferred framerate -->
+  <bispectral>0</bispectral> <!-- 0=thermal sensor only -->
+  <autoflag>
+    <enable>1</enable>
+    <mininterval>15.0</mininterval>
+    <maxinterval>0.0</maxinterval> <!-- Set to 0 to disable max interval -->
+  </autoflag>
+  <tchipmode>0</tchipmode>
+  <tchipfixedvalue>40.0</tchipfixedvalue>
+  <focus>-1</focus> <!-- Disabled focus change on startup -->
+  <enable_extended_temp_range>0</enable_extended_temp_range>
+  <buffer_queue_size>5</buffer_queue_size>
+  <enable_high_precision>0</enable_high_precision>
+  <radial_distortion_correction>0</radial_distortion_correction>
+  <use_external_probe>0</use_external_probe> <!-- Disable external probe -->
+  <!-- Uncomment if using an Ethernet-capable camera -->
+  <!--
+  <device_api>5</device_api>
+  <ethernet_device>
+    <device_ip_address>192.168.0.11</device_ip_address>
+    <local_udp_port>50011</local_udp_port>
+    <check_udp_sender_ip>1</check_udp_sender_ip>
+  </ethernet_device>
+  -->
+</imager>
+
